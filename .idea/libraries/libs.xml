@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mobile/libs/gson-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/okhttp-urlconnection-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/retrofit-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/okio-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/okhttp-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobile/libs/picasso-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
